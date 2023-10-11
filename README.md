@@ -1,8 +1,7 @@
 # Sales_data_Analysis
 Sales data need to analyze to identify trends, top selling products and revenue matrics for business decision-making.
 
-4. Data Analysis
-Summary of Data Analysis
+ Data Analysis --  Summary of Data Analysis
 1. Total revenue generated in 2019 was around 35 Million.
 2. There were altogether 185950 sales of different product.
 3. All the fields have complete sets of information. There is not any null value in any column.
